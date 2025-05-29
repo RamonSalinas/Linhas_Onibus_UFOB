@@ -106,5 +106,5 @@ Integração com sistemas de transporte público para atualização automática 
 
 👨‍🏫 Autor
 Prof. Ramon Adrian Salinas Franco
-Coordenação: Curso Interdisciplinar em Ciência e Tecnologia - UFOB
+Curso Interdisciplinar em Ciência e Tecnologia - UFOB
 
